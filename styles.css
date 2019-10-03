@@ -1,0 +1,101 @@
+* {
+  font-family: "open sans";
+}
+header {
+  background-color: #75E2E6;
+  border-bottom-style: solid;
+  border-color: #048EAA;
+}
+nav {
+  background-color: #75E2E6;
+  height: 60px;
+  display: inline-block;
+}
+li {
+  display: inline;
+  margin-right: 10px;
+  float: right;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+  margin-right: 970px;
+}
+.name-dog {
+  background-image: url("images/dog-party-assets/park.jpg");
+  color: #FFFFFF;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: -20px;
+  background-size:
+}
+.circle1 {
+  padding: 0px;
+  border-radius: 50%;
+  border: 5px solid #048EAA;
+  height: 200px;
+  width: 200px;
+}
+input {
+  width: 325px;
+  height: 30px;
+  border-radius: 5px;
+}
+.dog-name {
+  width: 332px;
+  height: 33px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #75E2E6;
+  font-weight: bold;
+}
+.circle {
+  padding: 0px;
+  border-radius: 50%;
+  border: 5px solid #048EAA;
+  height: 200px;
+  width: 200px;
+}
+.bottom {
+  width: 325px;
+  height: 40px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #048EAA;
+  margin-right: 10px;
+  color: #FFFFFF;
+}
+.how-to,
+.what-is,
+.facts {
+  display: inline-block;
+  height: 500px;
+  text-align: center;
+  width: 33%;
+}
+.para {
+  width: 276px;
+  text-align: left;
+  margin-left: 80px;
+  font-weight: bold;
+}
+.some-dog {
+  font-weight: normal;
+}
+.bold-dog {
+  font-weight: bold;
+}
+footer {
+  background-color: #048EAA;
+  height: 180px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.learn {
+  padding-top: 43px;
+}
+.social2 {
+  margin-right: 10px;
+  margin-top: 20px;
+}
